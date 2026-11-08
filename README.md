@@ -507,11 +507,13 @@ nos plus beaux moments.
 
 <div class="gallery">
 
-<img src="photo1.jpg" alt="Notre souvenir 1" onclick="showPhoto(this)">
-<img src="photo2.jpg" alt="Notre souvenir 2" onclick="showPhoto(this)">
-<img src="photo3.jpg" alt="Notre souvenir 3" onclick="showPhoto(this)">
-<img src="photo4.jpg" alt="Notre souvenir 4" onclick="showPhoto(this)">
-
+<img src="IMG-20261011-WA0062.jpg" alt="Notre souvenir 1" onclick="showPhoto(this)">
+<img src="IMG-20261011-WA0071.jpg" alt="Notre souvenir 2" onclick="showPhoto(this)">
+<img src="IMG-20260920-WA0078.jpg" alt="Notre souvenir 3" onclick="showPhoto(this)">
+<img src="IMG-20260912-WA0008.jpg" alt="Notre souvenir 4" onclick="showPhoto(this)">
+<img src="IMG-20261011-WA0061.jpg"
+alt="Notre souvenir 5"
+onclick="showPhoto(this)">
 </div>
 
 </section>
