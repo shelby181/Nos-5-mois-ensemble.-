@@ -514,7 +514,7 @@ nos plus beaux moments.
 <img src="IMG-20261011-WA0061.jpg"
 alt="Notre souvenir 5"
 onclick="showPhoto(this)">
-<img src=" IMG-20261011-WA0065.JPG"
+<img src="IMG-20261011-WA0065.JPG"
 alt="Notre souvenir 6"
 onclick="showPhoto(this)">
 </div>
